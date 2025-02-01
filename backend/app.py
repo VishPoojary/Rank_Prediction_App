@@ -30,7 +30,7 @@ def quiz_performance():
         # Extract JSON data from response
         data = response.json()
 
-        # Example: Assuming quiz data contains performance scores for each quiz
+        # Assuming quiz data contains performance scores for each quiz
         quiz_scores = [quiz['score'] for quiz in data]  # Extract scores from the data
         
         # Get rank prediction
