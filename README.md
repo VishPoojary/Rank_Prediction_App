@@ -1,6 +1,7 @@
 While inside the backend folder on terminal, pip install to get all modules and dependancies. For the frontend folder , npm install to get all modules and dependancies. 
 Using python app.py command, run backend. Using npm start command, run frontend. 
 Once both are connected, the application would run on the local machine.
+Video Link for Working Application - https://drive.google.com/file/d/1dbeKe_CwzwcR6IdMpyqFRMt72gQ7Dtpj/view?usp=drive_link
 
 
 
